@@ -1,5 +1,7 @@
-# this haiku has an extra line of seven syllables
+Haiku
+
 The building face ripples
 With the late morning sunbeams
 Shadows slowly grow
-Window blinds protect us too
+
+Written by Noah Levine
